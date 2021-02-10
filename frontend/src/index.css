@@ -1,0 +1,38 @@
+main {
+  min-height: 80vh;
+}
+
+body,
+.modal-background {
+  background-color: #5b1a2f9f;
+}
+
+.bg-dark {
+  background-color: #5b1a2f !important;
+}
+.nav-link {
+  color: #fff !important;
+}
+.nav-link:hover {
+  color: rgb(134, 130, 130) !important;
+}
+.card {
+  transition: 0.5s ease-in-out;
+  margin-top: 10px;
+}
+.card:hover {
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}
+.btn-primary,
+.bg-primary {
+  background-color: #5b1a2f !important;
+}
+.btn-secondary,
+.bg-secondary {
+  background-color: #f79683 !important;
+  color: #5b1a2f;
+}
+
+.text-primary {
+  color: #5b1a2f !important;
+}
